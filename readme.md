@@ -24,7 +24,7 @@ Experience the convenience of managing your light bulb's energy usage, monitorin
 
 2. Statistics Page
 
-   ![Statistics Page](./images/Statistics.jpg)
+   ![Statistics Page](./images/statistics.jpg)
 
 3. Bulb Settings
    ![Bulb Settings](./images/bulb_settings.jpg)
